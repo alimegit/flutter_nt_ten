@@ -1,5 +1,4 @@
 import 'dart:convert';
-
 import 'package:flutter/material.dart';
 import 'package:flutter_nt_ten/models/user/user_model.dart';
 import 'package:flutter_nt_ten/utils/colors/app_colors.dart';
